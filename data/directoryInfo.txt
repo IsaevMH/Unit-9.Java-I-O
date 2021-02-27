@@ -1,0 +1,12 @@
+|-----firstFolder
+|     someDocumentsWithChars.txt
+|     someDocumentWithDigits.txt
+|
+|-----secondFolder
+|     someDocumentWithSymbols.txt
+|     someDocumentWithWords.txt
+|
+|-----thirdFolder
+|     someDocumentWithDoubleNumbers.txt
+|     someDocumentWithIntegerNumbers.txt
+|
